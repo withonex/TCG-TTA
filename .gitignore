@@ -1,0 +1,39 @@
+# Operating-system and editor files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local credentials and machine-specific configuration
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.remote.toml
+
+# Datasets, model artifacts, and generated experiment outputs
+/datasets/
+/checkpoints/
+/outputs/
+/results/
+/runs/
+/logs/
+/packages/
+*.ckpt
+*.pth
+*.pt
+*.onnx
+*.log
+*.zip
+*.tar
+*.tar.gz
