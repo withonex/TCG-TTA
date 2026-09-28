@@ -1,1 +1,1 @@
-# TCG-TTA: Temporal Correlation-Guided Backpropagation-Free Test-Time Adaptation for Motor Imagery Brain-Computer Interfaces
+# TCG-TTA: Temporal Correlation-Guided Backpropagation-Free Test-Time Adaptation for Cross-Subject Motor Imagery Decoding
